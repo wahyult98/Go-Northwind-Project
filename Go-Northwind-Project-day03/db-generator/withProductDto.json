@@ -1,0 +1,32 @@
+{
+    "category_id": 103,
+    "category_name": "Budak buncir",
+    "description": "",
+    "picture": "",
+    "products": [
+        {
+            "product_id": null,
+            "product_name": "Ikura",
+            "supplier_id": 4,
+            "category_id": 8,
+            "quantity_per_unit": "12 - 200 ml jars",
+            "unit_price": 31,
+            "units_in_stock": 31,
+            "units_on_order": 0,
+            "reorder_level": 0,
+            "discontinued": 0
+        },
+        {
+            "product_id": null,
+            "product_name": "Konbu",
+            "supplier_id": 6,
+            "category_id": 8,
+            "quantity_per_unit": "2 kg box",
+            "unit_price": 6,
+            "units_in_stock": 24,
+            "units_on_order": 0,
+            "reorder_level": 5,
+            "discontinued": 0
+        }
+    ]
+}
